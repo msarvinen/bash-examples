@@ -1,5 +1,4 @@
-This script is an example of checking connection with pinging
-Google DNS.
+This script is an example of checking connection with pinging Google DNS.
 
-Usage
+USAGE
 ./pinger.sh
