@@ -9,7 +9,7 @@
 _ssh-keygen_
 
 ### copy you ssh public key into far-end
-_ssh-copy-id <user>@<farend-ip>_
+_ssh-copy-id user@farend-ip_
 
 now you should be able to login via ssh to far-end without password
 
