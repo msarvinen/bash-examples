@@ -12,3 +12,4 @@ error3.sh => returns error code 3
 EXAMPLE
 ./capture-error.sh error2.sh
 
+
