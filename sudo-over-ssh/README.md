@@ -14,7 +14,7 @@ _ssh-copy-id user@farend-ip_
 now you should be able to login via ssh to far-end without password
 
 ### Add sudoer password into passwd.txt -file
- This is required for the executed command
+ This is required for the executed command.
  Just the password, no carriage return <CR> nor line feed <LF>
  
 ### USAGE
