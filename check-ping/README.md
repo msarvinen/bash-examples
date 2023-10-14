@@ -1,7 +1,7 @@
-This script is an example of checking connection with pinging Google DNS.
+### This script is an example how to check connection with ping.
 
-USAGE
+### USAGE
 ./pinger.sh <URL/IP-to-ping>
 
-EXAMPLE
+### EXAMPLE
 ./pinger.sh 8.8.8.8
