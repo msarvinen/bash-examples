@@ -6,10 +6,10 @@
  This needs to be performed only once
 
 ### In case you dont have ssh keys, you have to run this first:
-ssh-keygen
+_ssh-keygen_
 
 ### copy you ssh public key into far-end
-ssh-copy-id <user>@<farend-ip>
+_ssh-copy-id <user>@<farend-ip>_
 
 now you should be able to login via ssh to far-end without password
 
@@ -18,10 +18,10 @@ now you should be able to login via ssh to far-end without password
  Just the password, no carriage return <CR> nor line feed <LF>
  
 ### USAGE
-./dosu.sh <user> <URL/IP> <command-without-sudo>
+_./dosu.sh <user> <URL/IP> <command-without-sudo>_
 
 ### EXAMPLE
-./dosu.sh pi 192.168.88.175 "docker ps"
+_./dosu.sh pi 192.168.88.175 "docker ps"_
 
 
 
