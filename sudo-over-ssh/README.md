@@ -18,7 +18,7 @@ now you should be able to login via ssh to far-end without password
  Just the password, no carriage return CR nor line feed LF
  
 ### USAGE
-_./dosu.sh user far-end-ip command-without-sudo_
+_./dosu.sh &lt;user&gt; &lt;far-end-ip&gt; &lt;command-without-sudo&gt;_
 
 ### EXAMPLE
 _./dosu.sh pi 192.168.88.175 "docker ps"_
