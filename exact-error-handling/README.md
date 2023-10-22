@@ -1,7 +1,7 @@
 ## This demonstrates how to capture error codes in exact manner.
 
 ## USAGE
-./capture-error.sh <error-scritp>
+./capture-error.sh &lt;error-scritp&gt;
 
 ## Error scritpts:
 ```
