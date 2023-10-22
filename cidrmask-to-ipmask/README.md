@@ -2,7 +2,7 @@
 ### ...like 25 => 255.255.255.128
 
 ### USAGE
-./cidrtoipmask.sh <CIDR-MASK>
+./cidrtoipmask.sh &lt;CIDR-MASK&gt;
 
 ### EXAMPLE
 ./cidrtoipmask.sh 25
