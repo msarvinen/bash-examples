@@ -9,3 +9,11 @@ _./compare.sh \<LOCAL-FOLDER> \<REMOTE-USER>@\<REMOTE-HOST> \<REMOTE-FOLDER>_
 
 ### EXAMPLE
 _./compare.sh ~/temp/filet ms@192.168.88.175 /home/ms/scripts/filet_
+
+### Output is like:
+```
+local-file: in-remote is-same
+eri.txt: true false
+neka.txt: false
+sama.txt: true true
+```
